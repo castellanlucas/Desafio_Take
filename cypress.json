@@ -1,0 +1,8 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json", 
+    "baseUrl": "https://account.blip.ai/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dblip-portal%26redirect_uri%3Dhttps%253A%252F%252Flucas-tadeu-ksbl2.blip.ai%252Fauthorize%26response_type%3Did_token%2520token%26scope%3Doffline_access%2520openid%2520profile%2520email%2520api-msging-hub.full_access%2520api-payment-service.full_access%26state%3Dc9a7c2ecb9204f089cc58e28757d1504%26nonce%3De3b4e9bb1d2f4b17aa491134b2fa3f91", 
+    "viewportWidth": 1024, 
+    "viewportHeight": 768 ,
+    "watchForFileChanges":true, 
+    "experimentalSessionSupport": true
+}
