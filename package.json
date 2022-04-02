@@ -1,0 +1,14 @@
+{
+  "name": "serasa",
+  "version": "1.0.0",
+  "description": "Menu de produtos e central de monitoramento",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jaqueline Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
