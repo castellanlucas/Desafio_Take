@@ -1,8 +1,0 @@
-{
-    "$schema": "https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json", 
-    "baseUrl": "https://empresas-uat.serasaexperian.com.br/meus-produtos/login", 
-    "viewportWidth": 1024, 
-    "viewportHeight": 768 ,
-    "watchForFileChanges":true, 
-    "experimentalSessionSupport": true
-}
